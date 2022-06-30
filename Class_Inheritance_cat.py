@@ -1,9 +1,9 @@
-from main import Cat
+from Class_Inheritance_main import Cat
 cat = Cat(4, 18, 48)
 cat.vocalize()
 cat.print_facts()
 
-from main import Cheetah, Lion, Leopard
+from Class_Inheritance_main import Cheetah, Lion, Leopard
 cheetah = Cheetah(72,12, 120)
 lion = Lion(190, 14,80)
 leopard = Leopard (90,17,58)
